@@ -3,7 +3,7 @@
 ### Downloads
 GitHub Releases: https://github.com/xnplz/cs1045tx/releases/tag/efi  
 Google Drive: https://drive.google.com/file/d/1CdTwS9LAAOGsSJ7IzZXRtwHBkqkh_--1/view?usp=sharing  
-Lưu ý: Cần sử dụng [7zip](https://7zip.org) hoặc phần mềm hỗ trợ giải nén file 7z.
+Lưu ý: Cần sử dụng [7-Zip](https://7zip.org) hoặc phần mềm hỗ trợ giải nén file 7z.
 
 ### Spectifications
 | Bộ phận | Tên | Hỗ trợ |
