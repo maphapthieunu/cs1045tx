@@ -1,5 +1,8 @@
 # OpenCore Bootloader EFI cho máy HP Pavilion 15-cs1045tx
 
+### Downloads
+https://github.com/xnplz/cs1045tx/releases/tag/efi
+
 ### Spectifications
 | Bộ phận | Tên | Hỗ trợ |
 | ------- | --- | ------ |
