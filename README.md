@@ -1,4 +1,4 @@
-# OpenCore Bootloader EFI cho máy HP Pavilion 15-cs1045tx
+# macOS Recovery/OpenCore Bootloader EFI cho máy HP Pavilion 15-cs1045tx
 
 ### Downloads
 GitHub Releases: https://github.com/xnplz/cs1045tx/releases/tag/efi  
