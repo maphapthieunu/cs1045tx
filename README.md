@@ -1,4 +1,4 @@
-# OpenCore Bootloader EFI for HP Pavilion 15-cs1045tx (w/ chime and GUI!)
+# My OpenCore Bootloader EFI for HP Pavilion 15-cs1045tx (w/ chime and GUI!)
 
 ### Downloads
 GitHub Releases: https://github.com/xnplz/cs1045tx/releases/tag/efi  
