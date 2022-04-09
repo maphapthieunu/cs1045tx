@@ -1,12 +1,11 @@
-# macOS Recovery/OpenCore Bootloader EFI cho máy HP Pavilion 15-cs1045tx
+# OpenCore Bootloader EFI for HP Pavilion 15-cs1045tx (w/ chime and GUI!)
 
 ### Downloads
 GitHub Releases: https://github.com/xnplz/cs1045tx/releases/tag/efi  
-Google Drive: https://drive.google.com/file/d/1CdTwS9LAAOGsSJ7IzZXRtwHBkqkh_--1/view?usp=sharing  
 Lưu ý: Cần sử dụng [7-Zip](https://7zip.org) hoặc phần mềm hỗ trợ giải nén file 7z.
 
 ### Known issues  
-1. Nếu không có audio, hãy force power off rồi bật lại, cái này không riêng gì macOS bị
+1. Nếu không có audio hay không có boot chime, hãy force power off rồi bật lại, cái này không riêng gì macOS bị mà Linux cũng bị
 2. Gập máy vào là liệt, can't figure out
 3. Nếu mọi người có issue hay figure out một issue nào thì tạo một cái issue
 
