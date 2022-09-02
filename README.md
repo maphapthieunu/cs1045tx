@@ -1,20 +1,16 @@
-# My OpenCore Bootloader EFI for HP Pavilion 15-cs1045tx (w/ chime and GUI!)
+<div align="center">
 
-### Downloads
-GitHub Releases: https://github.com/xnplz/cs1045tx/releases/tag/efi  
-Lưu ý: Cần sử dụng [7-Zip](https://7zip.org) hoặc phần mềm hỗ trợ giải nén file 7z.
+# cs1045tx
+⚠️⚠️⚠️ KHUYẾN KHÍCH DUAL BOOT VỚI WINDOWS ĐỂ SỬA LỖI ⚠️⚠️⚠️
 
-### Known issues  
-1. Nếu không có audio hay không có boot chime, hãy force power off rồi bật lại (cold boot), cái này không riêng gì macOS bị mà Linux cũng bị
-2. Gập máy vào là liệt, can't figure out how to fix since can't map USB or fix shits
-3. Nếu mọi người có tìm được một vấn đề nào thì tạo một cái issue
+## downloads
+https://github.com/xnplz/cs1045tx/releases/tag/efi  
 
-### Thanks
-1. [HP](https://www.hp.com/vn-vi/home.html): Wow I love this laptop
-2. [Dortania](https://github.com/dortania): for their [guide](https://dortania.github.io/OpenCore-Install-Guide)
-3. [QuanTrieuPCYT](https://github.com/quantrieupcyt): owner thicc smp dep trai, thanks for helping me much
-4. [Krisbane](https://github.com/krisbane): ui chi meo simmy, also thanks for helping me much
-5. [DuckDuckGo](https://duck.com), [Microsoft Bing](https://bing.com) và [Google](https://google.com.vn): search queries
+## known issues  
+nếu không có audio, hãy force power off rồi bật lại (cold boot)   
+chưa biết map USB nên tạm thời gập máy vào sẽ đơ
 
-ncct
+## thanks to:
+[HP](https://www.hp.com/vn-vi/home.html) **·** [Dortania](https://github.com/dortania) **·** [QuanTrieuPCYT](https://github.com/quantrieupcyt) **·** [Krisbane](https://github.com/krisbane) **·** [DuckDuckGo](https://duck.com) **·** [Microsoft Bing](https://bing.com) **·** [Google](https://google.com.vn)
 
+</div>
