@@ -8,7 +8,7 @@ personal stuff
 check releases
 
 ## known issues  
-sleep broke
+SLEEP NOT BROKE ANYMORE
 
 ## thanks to:
 [HP](https://www.hp.com/vn-vi/home.html) **·** [Dortania](https://github.com/dortania) **·** [QuanTrieuPCYT](https://github.com/quantrieupcyt) **·** [Krisbane](https://github.com/krisbane) **·** [DuckDuckGo](https://duck.com) **·** [Microsoft Bing](https://bing.com) **·** [Google](https://google.com.vn)
